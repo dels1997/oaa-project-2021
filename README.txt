@@ -1,3 +1,5 @@
+Simple implementation of segmented least squares algorithm.
+\hline
 There are two programs for solving the problem:
 One has user messages and instructions for input and comments along the code and the other has none.
 Input in the latter is done via the "input.txt" file in the following format:
